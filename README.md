@@ -5,7 +5,8 @@ Here are some ideas:
 - 🌱 I'm currently learning English, Analysis and Systems Development...
 <div>
   <img src= "https://github-readme-stats.vercel.app/api?username=MasterSenna&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dracula-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSenna&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSenna&layout=compact&theme=dracula" />
+
 </div>
 <div style="display: inline_block"><br>
 
