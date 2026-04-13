@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=40&center=true&vCenter=true&width=1000&pause=800&duration=3000&lines=Felipe+Senna;Java+Backend+Developer;Microservices+%7C+Spring+Boot+%7C+Cloud;Building+Scalable+Systems+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=40&center=true&vCenter=true&width=1000&pause=800&duration=3000&lines=Felipe+Senna;Java+Backend+Developer;Microservices+%7C+Spring+Boot+%7C+Cloud;Building+Scalable+Systems+%F0%9F%9A%80;Always+Learning+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 ---
 
@@ -8,9 +8,9 @@
 
 <div align="center">
 
-<img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=MasterSenna&show_icons=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasterSenna&theme=github_dark"/>
 
-<img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSenna&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MasterSenna&theme=github_dark"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 
 ---
