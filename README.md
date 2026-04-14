@@ -28,6 +28,14 @@
 
 ---
 
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MasterSenna&label=Profile%20views&color=00bfbf&style=for-the-badge"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MasterSenna&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
